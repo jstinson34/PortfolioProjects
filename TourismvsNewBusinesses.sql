@@ -1,4 +1,7 @@
-
+/* DATA SOURCES: 
+https://ourworldindata.org/tourism 
+https://ourworldindata.org/grapher/new-business-density?tab=chart&country=Caribbean+small+states~Other+small+states~Pacific+island+small+states~Small+states 
+*/
 /*  PERCENT CHANGE YEAR OVER YEAR PER COUNTRY
 
 1. Get previous year data from arrivals & new business registration. 
